@@ -1,0 +1,76 @@
+.post-card-delete-button {
+    background-color: black; 
+    border-radius: 8px; 
+    overflow: hidden; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    max-width: 480px; 
+    margin: 16px auto;
+    padding: 16px; 
+    color: #fff; 
+    font-family: 'Arial', sans-serif; 
+    position: relative; 
+}
+
+.post-card-delete-button img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 4px; 
+}
+
+.post-card-delete-button p {
+    margin: 12px 0; 
+    font-size: 16px;
+}
+
+.post-card-delete-button span {
+    display: block; 
+    margin: 8px 0; 
+    font-size: 14px; 
+    font-weight: bold; 
+}
+
+.post-card-delete-button .delete-button {
+    background-color: rgb(24, 99, 130); 
+    border: none; 
+    color: white; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 50px;
+    width: 125px;
+    padding: 4px;
+}
+
+.post-card-delete-button .delete-button:hover {
+    background-color: #234764; 
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    margin-top: 16px; 
+}
+
+
+.post-card-delete-button .createdTime{
+
+    font-size: 1rem;
+    color: rgb(152, 149, 149);
+
+}
+
+.components{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ContentOfLike{
+   margin: 5px;
+}
+
+.ContentOfLike i{
+    margin:3px
+}

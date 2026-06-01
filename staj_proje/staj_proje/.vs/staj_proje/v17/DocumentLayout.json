@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Services\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\UserFollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\UserFollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Notification.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Notification.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Helpers\\FileHelper.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\FileHelper.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\UserUpdateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\UserUpdateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\UserFollowerDTO.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\UserFollowerDTO.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\PostDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\PostDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\LikeDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\LikeDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\FollowCheckResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\FollowCheckResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\CommentDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\CommentDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Data\\MyDataBaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\MyDataBaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\UserFollowersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UserFollowersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\PostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\PostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\NotificationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\NotificationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\LikesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\LikesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\CommentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CommentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\Mapping\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Mapping\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u00DCmran M\u0131ng\u0131r\\AppData\\Local\\Temp\\f316582b-926f-4371-b386-0da002012308_staj_proje_son.zip.308\\staj_proje\\staj_proje\\Controllers\\CommentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Migrations\\MyDataBaseContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\MyDataBaseContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u00DCmran M\u0131ng\u0131r\\source\\repos\\staj_proje\\staj_proje\\wwwroot\\uploads2\\icons8-person-48 (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\staj_proje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:staj_proje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\staj_proje.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:staj_proje.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T07:39:17.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "Helpers\\FileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:57:01.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:18:57.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:24:02.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:18:31.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:18:39.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserFollower.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\UserFollower.cs",
+              "RelativeDocumentMoniker": "Models\\UserFollower.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\UserFollower.cs",
+              "RelativeToolTip": "Models\\UserFollower.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:18:45.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:36:14.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwDoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:10:58.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserUpdateDTO.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\UserUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserUpdateDTO.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\UserUpdateDTO.cs",
+              "RelativeToolTip": "DTOs\\UserUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:21:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserFollowerDTO.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\UserFollowerDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserFollowerDTO.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\UserFollowerDTO.cs",
+              "RelativeToolTip": "DTOs\\UserFollowerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:06:36.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T01:41:40.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\PostDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostDTO.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\PostDTO.cs",
+              "RelativeToolTip": "DTOs\\PostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T01:40:10.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LikeDTO.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\LikeDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LikeDTO.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\LikeDTO.cs",
+              "RelativeToolTip": "DTOs\\LikeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:18:29.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FollowCheckResponseDTO.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\FollowCheckResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\FollowCheckResponseDTO.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\FollowCheckResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\FollowCheckResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:54:40.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CommentDTO.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\CommentDTO.cs",
+              "RelativeToolTip": "DTOs\\CommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:18:59.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyDataBaseContext.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Data\\MyDataBaseContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDataBaseContext.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Data\\MyDataBaseContext.cs",
+              "RelativeToolTip": "Data\\MyDataBaseContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:45:11.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAkwPIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:45:05.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserFollowersController.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\UserFollowersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserFollowersController.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\UserFollowersController.cs",
+              "RelativeToolTip": "Controllers\\UserFollowersController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:45:03.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\PostsController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAkwDgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:02:38.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:35:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LikesController.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\LikesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LikesController.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\LikesController.cs",
+              "RelativeToolTip": "Controllers\\LikesController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAHQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:02:20.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAcwCQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:45:01.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:57:25.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "Models\\Like.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Models\\Like.cs",
+              "RelativeToolTip": "Models\\Like.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:18:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "DTOs\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\DTOs\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "DTOs\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:00:58.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CommentsController.cs[Salt Okunur]",
+              "DocumentMoniker": "C:\\Users\\\u00DCmran M\u0131ng\u0131r\\AppData\\Local\\Temp\\f316582b-926f-4371-b386-0da002012308_staj_proje_son.zip.308\\staj_proje\\staj_proje\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\\u00DCmran M\u0131ng\u0131r\\AppData\\Local\\Temp\\f316582b-926f-4371-b386-0da002012308_staj_proje_son.zip.308\\staj_proje\\staj_proje\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\\u00DCmran M\u0131ng\u0131r\\AppData\\Local\\Temp\\f316582b-926f-4371-b386-0da002012308_staj_proje_son.zip.308\\staj_proje\\staj_proje\\Controllers\\CommentsController.cs[Salt Okunur]",
+              "RelativeToolTip": "..\\..\\..\\Users\\\u00DCmran M\u0131ng\u0131r\\AppData\\Local\\Temp\\f316582b-926f-4371-b386-0da002012308_staj_proje_son.zip.308\\staj_proje\\staj_proje\\Controllers\\CommentsController.cs[Salt Okunur]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:27:53.644Z",
+              "EditorCaption": "[Salt Okunur]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MyDataBaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Migrations\\MyDataBaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MyDataBaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\Migrations\\MyDataBaseContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MyDataBaseContextModelSnapshot.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAADwv/oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:06:26.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "icons8-person-48 (1).png - PNG [48x48, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\\u00DCmran M\u0131ng\u0131r\\source\\repos\\staj_proje\\staj_proje\\wwwroot\\uploads2\\icons8-person-48 (1).png",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\\u00DCmran M\u0131ng\u0131r\\source\\repos\\staj_proje\\staj_proje\\wwwroot\\uploads2\\icons8-person-48 (1).png",
+              "ToolTip": "C:\\Users\\\u00DCmran M\u0131ng\u0131r\\source\\repos\\staj_proje\\staj_proje\\wwwroot\\uploads2\\icons8-person-48 (1).png - PNG [48x48, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\..\\Users\\\u00DCmran M\u0131ng\u0131r\\source\\repos\\staj_proje\\staj_proje\\wwwroot\\uploads2\\icons8-person-48 (1).png - PNG [48x48, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-22T13:06:25.073Z",
+              "EditorCaption": " - PNG [48x48, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T23:02:14.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "staj_proje.csproj",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\staj_proje.csproj",
+              "RelativeDocumentMoniker": "staj_proje.csproj",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\staj_proje.csproj",
+              "RelativeToolTip": "staj_proje.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T10:50:55.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T10:14:49.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "staj_proje.csproj.user",
+              "DocumentMoniker": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\staj_proje.csproj.user",
+              "RelativeDocumentMoniker": "staj_proje.csproj.user",
+              "ToolTip": "C:\\staj_proje_\u00DCmranM\u0131ng\u0131r\\staj_proje\\staj_proje\\staj_proje.csproj.user",
+              "RelativeToolTip": "staj_proje.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-08-18T10:50:53.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

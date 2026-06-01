@@ -1,0 +1,69 @@
+/* PostCard.css */
+
+.post-card {
+    background-color: black; 
+    border-radius: 8px; 
+    overflow: hidden; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 480px; 
+    margin: 16px auto; 
+    padding: 16px;
+    color: #fff; 
+    font-family: 'Arial', sans-serif;
+}
+
+.post-card img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 4px; 
+}
+
+.post-card p {
+    margin: 12px 0; 
+    font-size: 16px; 
+}
+
+.post-card span {
+    display: block; 
+    margin: 8px 0; 
+    font-size: 14px; 
+    font-weight: bold; 
+}
+
+.post-card .comment-form,
+.post-card .like-form {
+    margin-top: 16px;
+}
+
+.bi-hand-thumbs-up-fill{
+    font-size: 22px;
+}
+
+.post-card .createdTime{
+
+    font-size: 1rem;
+    color: rgb(152, 149, 149);
+
+}
+
+.components{
+    display: flex;
+    justify-content: space-between;
+}
+
+.timeAndContent{
+
+}
+
+
+.ContentOfLike{
+   margin: 5px;
+}
+
+.ContentOfLike i{
+    margin:3px
+}
+
+.person{
+    width: auto;
+}

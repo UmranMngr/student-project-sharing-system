@@ -1,0 +1,24 @@
+wwwroot\asset-manifest.json
+wwwroot\favicon.ico
+wwwroot\favicon.svg
+wwwroot\index.html
+wwwroot\logo192.png
+wwwroot\logo512.png
+wwwroot\manifest.json
+wwwroot\pictures\avatar.png
+wwwroot\robots.txt
+wwwroot\static\css\main.086c0181.css
+wwwroot\static\css\main.086c0181.css.map
+wwwroot\static\js\453.ed3810f9.chunk.js
+wwwroot\static\js\453.ed3810f9.chunk.js.map
+wwwroot\static\js\main.735ee2fb.js
+wwwroot\static\js\main.735ee2fb.js.LICENSE.txt
+wwwroot\static\js\main.735ee2fb.js.map
+wwwroot\static\media\bookshelf-svgrepo-com (1).c1c83aea80027dfbd6286730c8e443dc.svg
+wwwroot\uploads2\0aaef80d-3599-41b7-91a9-38b10b329683.jpg
+wwwroot\uploads2\0af208d1-eecf-4c1a-8a0b-73a41056a423.jpg
+wwwroot\uploads2\2475a9ee-a296-409c-906e-a4127eec8a96.jpg
+wwwroot\uploads2\2f7341ef-a07c-4f0a-acf4-46df9fbee826.jpg
+wwwroot\uploads2\682da922-d9bb-4207-a953-ac9441878822.jpg
+wwwroot\uploads2\84a2eb7b-b8e7-49dc-b2b7-83fff4364073.jpg
+wwwroot\uploads2\e65cd73f-c09f-4f88-ab61-bb780237f4e9.jpg

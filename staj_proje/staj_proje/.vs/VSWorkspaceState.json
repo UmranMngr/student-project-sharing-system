@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DTOs",
+    "\\Helpers",
+    "\\Models",
+    "\\Properties",
+    "\\Services",
+    "\\wwwroot",
+    "\\wwwroot\\pictures",
+    "\\wwwroot\\uploads",
+    "\\wwwroot\\uploads2"
+  ],
+  "SelectedNode": "\\wwwroot\\pictures\\avatar.png",
+  "PreviewInSolutionExplorer": false
+}

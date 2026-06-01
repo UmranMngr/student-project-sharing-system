@@ -1,0 +1,130 @@
+.profile-container {
+  display: flex;
+  height: 100vh;
+  width: 100vh;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px; 
+  
+}
+
+.profileInfoContainer { 
+  border: 2px solid #525151;
+  background-color: rgba(#ffffff, 1);
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%; 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 2px rgb(61, 61, 61);
+  margin: 20px;
+}
+
+.profile-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
+
+.profile-info .profile-picture {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  background-color: azure;
+  margin-right: 20px;
+
+
+}
+
+.profile-info .details {
+  flex: 1;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+
+.posts-section {
+  border: 2px solid rgba(255, 255, 255, 0.1) ;
+  background-color:rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  height: auto;
+  margin: 20px;
+}
+
+
+.post {
+  background-color: #f0f0f0;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.details{
+ border-radius: 8px;
+ padding: 10px;
+}
+
+.buttons .btn {
+  background-color: #317482; 
+  color: white;
+  border: none; 
+  padding: 10px 20px; 
+  border-radius: 5px; 
+  font-size: 16px; 
+}
+.buttons .btn:hover {
+  background-color: #71b5c3; 
+  color: #ffffff; 
+}
+
+.Edit{
+  border: 2px solid rgba(255, 255, 255, 0.1) ;
+  background-color:rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  height: auto;
+  margin: 20px;
+}
+
+
+.akıs{
+  width: 55%;
+}
+
+
+.notification-container {
+  position: relative; 
+  display: inline-block;
+  margin-left: 20px;
+}
+.notification-button {
+  margin-bottom: 10px;
+  
+}
+
+.messages {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 10; 
+  width: 200px;
+  margin-left: 40px; 
+}

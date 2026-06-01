@@ -1,0 +1,33 @@
+.icon-button .bi-hand-thumbs-down-fill{
+font-size: 35px;
+color: rgb(107, 157, 243);
+}
+.icon-button .bi-hand-thumbs-down-fill:hover{
+    color: rgb(64, 107, 182);
+}
+
+
+.icon-button .bi-hand-thumbs-up-fill{
+font-size: 35px;
+color: rgb(235, 124, 185);
+
+}
+
+.icon-button .bi-hand-thumbs-up-fill:hover{
+    color: rgb(169, 70, 124);
+}
+
+.icon-button{
+    background-color: black;
+    height: auto;
+    width: auto;
+    padding: 3px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-button:hover{
+    background-color:  black ;
+}

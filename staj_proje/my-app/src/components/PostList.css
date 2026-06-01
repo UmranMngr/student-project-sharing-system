@@ -1,0 +1,16 @@
+
+.post-list-container {
+    border: 2px solid rgba(255, 255, 255, 0.1) ;
+    padding: 20px; 
+    border-radius: 8px; 
+    background-color:rgba(255, 255, 255, 0.3) ;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    width: 500px; 
+    margin: 0 auto;
+}
+
+.post-card-wrapper {
+    border-radius: 8px; 
+    margin-bottom: 16px; 
+    padding: 16px; 
+}

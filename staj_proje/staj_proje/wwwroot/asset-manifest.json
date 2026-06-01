@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.086c0181.css",
+    "main.js": "/static/js/main.735ee2fb.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/bookshelf-svgrepo-com (1).svg": "/static/media/bookshelf-svgrepo-com (1).c1c83aea80027dfbd6286730c8e443dc.svg",
+    "index.html": "/index.html",
+    "main.086c0181.css.map": "/static/css/main.086c0181.css.map",
+    "main.735ee2fb.js.map": "/static/js/main.735ee2fb.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086c0181.css",
+    "static/js/main.735ee2fb.js"
+  ]
+}
