@@ -58,7 +58,6 @@ https://github.com/user-attachments/assets/1e3102c7-bcc6-4c07-b9b9-5bbb5d47e5ab
 ```markdown
 ## 📂 Project Structure
 
-```text
 staj_proje/
 ├── my-app/                       # Frontend: React.js SPA
 │   ├── public/                   # Static public assets
@@ -143,9 +142,7 @@ npm start
 
 ---
 
-## 🎓 Credits
 
-Developed as part of a Computer Engineering Internship Project at **Aydın Adnan Menderes University**.
 
 ```
 
