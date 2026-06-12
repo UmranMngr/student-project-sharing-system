@@ -16,14 +16,21 @@ Watch the full application walk-through showing registration, login, profile cus
 ## 📸 Screenshots
 
 ### 🖥️ Authentication & Navigation
+| Menu |
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/198ad629-11b5-481c-8e0a-1d4f8577a654" />
+
 | Register Page | Login Page |
 | :---: | :---: |
-| <img src="BURAYA_REGISTER_RESIM_LINKINI_EKLEYIN" width="100%"/> | <img src="BURAYA_LOGIN_RESIM_LINKINI_EKLEYIN" width="100%"/> |
+| <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b2f8e733-22f2-4471-aa85-b014b78af521" />
+ | <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c3db8bc3-8938-45ae-a1e5-f478f232ad68" />
+ |
 
 ### 📰 User Interaction & Dashboard
 | Global Feed (Home) | User Profile |
 | :---: | :---: |
-| <img src="BURAYA_HOME_RESIM_LINKINI_EKLEYIN" width="100%"/> | <img src="BURAYA_PROFILE_RESIM_LINKINI_EKLEYIN" width="100%"/> |
+| <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8efd5063-1cd7-4b6d-9031-3a4642824ad7" />
+ | <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/71fad635-7d69-4fa6-9cc4-be3e77cedf5b" />
+ |
 
 ---
 
