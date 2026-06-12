@@ -9,7 +9,7 @@
 ## 🎬 Gameplay / Application Demo
 Watch the full application walk-through showing registration, login, profile customisation, and project sharing features:
 
-<video src="BURAYA_VIDEO_LINKINI_EKLEYIN" width="100%" controls></video>
+https://github.com/user-attachments/assets/1e3102c7-bcc6-4c07-b9b9-5bbb5d47e5ab
 
 ---
 
@@ -17,19 +17,23 @@ Watch the full application walk-through showing registration, login, profile cus
 
 ### 🖥️ Authentication & Navigation
 | Menu |
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/198ad629-11b5-481c-8e0a-1d4f8577a654" />
+<img width="300" height="300
+
+
+
+" alt="image" src="https://github.com/user-attachments/assets/198ad629-11b5-481c-8e0a-1d4f8577a654" />
 
 | Register Page | Login Page |
 | :---: | :---: |
-| <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b2f8e733-22f2-4471-aa85-b014b78af521" />
- | <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c3db8bc3-8938-45ae-a1e5-f478f232ad68" />
+| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b2f8e733-22f2-4471-aa85-b014b78af521" />
+ | <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c3db8bc3-8938-45ae-a1e5-f478f232ad68" />
  |
 
 ### 📰 User Interaction & Dashboard
 | Global Feed (Home) | User Profile |
 | :---: | :---: |
-| <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8efd5063-1cd7-4b6d-9031-3a4642824ad7" />
- | <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/71fad635-7d69-4fa6-9cc4-be3e77cedf5b" />
+| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8efd5063-1cd7-4b6d-9031-3a4642824ad7" />
+ | <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/71fad635-7d69-4fa6-9cc4-be3e77cedf5b" />
  |
 
 ---
