@@ -1,10 +1,3 @@
-Aslında hepsi tam olarak tek bir yerde, aynı Markdown (`README.md`) dosyasının içinde ve tek bir kod bloğunda birleşik halde duruyor! ✨
-
-Yukarıda paylaştığım o uzun gri kutu, projenizin tek bir bütün halindeki `README.md` dosyasıdır. Sayfa aşağıya doğru uzadığı veya kutunun içinde kaydırma yapılması gerektiği için gözden kaçmış olabilir, çok normal.
-
-Kutunun en başındaki `# Proje Vitrini` başlığından başlayıp, en altındaki `## 🎓 Credits` kısmına kadar olan her şey **aynı dosyanın parçası**.
-
-Şimdi hiç kafa karışıklığı olmasın diye, **tek bir satır bile dışarıda kalmayacak şekilde** tüm dosyayı buraya tekrar tek parça olarak koyuyorum. Kutunun sağ üstündeki **"Copy"** (Kopyala) butonuna bastığınızda, projeniz için gereken her şey (Giriş, Proje Yapısı, Kurulum Adımları ve Credits) tek seferde kopyalanmış olacak:
 
 ```markdown
 # Proje Vitrini (Student Project Sharing System)
