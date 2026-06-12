@@ -1,5 +1,5 @@
 
-```markdown
+
 # Proje Vitrini (Student Project Sharing System)
 
 **Proje Vitrini** is a full-stack web application developed as an internship project. It serves as a social platform where Computer Engineering students can share their projects, customize their professional profiles, and interact with fellow peers through a global feed with search, like, and comment features.
@@ -59,7 +59,7 @@ Watch the full application walk-through showing registration, login, profile cus
 * **Engine:** SQL Server (Database deployment managed via `.bacpac` data-tier backup)
 
 ---
-
+```markdown
 ## 📂 Project Structure
 
 ```text
