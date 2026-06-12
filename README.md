@@ -18,19 +18,16 @@ https://github.com/user-attachments/assets/1e3102c7-bcc6-4c07-b9b9-5bbb5d47e5ab
 ### 🖥️ Authentication & Navigation
 | Menu |
 | :---: |
-|<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ccfd6db8-94fb-4080-9baf-5e2630be4926" />|
+| <img src="https://github.com/user-attachments/assets/ccfd6db8-94fb-4080-9baf-5e2630be4926" width="500" alt="Menu" /> |
 
 | Register Page | Login Page |
 | :---: | :---: |
-| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b2f8e733-22f2-4471-aa85-b014b78af521" />|
-  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c3db8bc3-8938-45ae-a1e5-f478f232ad68" />|
+| <img src="https://github.com/user-attachments/assets/b2f8e733-22f2-4471-aa85-b014b78af521" width="450" alt="Register Page" /> | <img src="https://github.com/user-attachments/assets/c3db8bc3-8938-45ae-a1e5-f478f232ad68" width="450" alt="Login Page" /> |
 
 ### 📰 User Interaction & Dashboard
 | Global Feed (Home) | User Profile |
 | :---: | :---: |
-| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8efd5063-1cd7-4b6d-9031-3a4642824ad7" />| 
- <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/71fad635-7d69-4fa6-9cc4-be3e77cedf5b" />|
-
+| <img src="https://github.com/user-attachments/assets/8efd5063-1cd7-4b6d-9031-3a4642824ad7" width="450" alt="Global Feed" /> | <img src="https://github.com/user-attachments/assets/71fad635-7d69-4fa6-9cc4-be3e77cedf5b" width="450" alt="User Profile" /> |
 ---
 
 ## 🚀 Key Features
